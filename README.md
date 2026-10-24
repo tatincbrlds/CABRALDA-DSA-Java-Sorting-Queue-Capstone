@@ -48,7 +48,7 @@ Adding an Order
 <img width="551" height="332" alt="image" src="https://github.com/user-attachments/assets/8c2c5bd2-5a6b-429a-b9cb-37002387dc7e" />
 <img width="517" height="287" alt="image" src="https://github.com/user-attachments/assets/52545208-1d1f-4da4-97d5-a84a8f49a7a7" />
 
-### Viewing and Sorting Orders
+Viewing and Sorting Orders
 
 Viewing an Order
 <img width="777" height="227" alt="image" src="https://github.com/user-attachments/assets/24e36275-c2b4-4307-acc3-80781b0d5250" />
@@ -74,13 +74,3 @@ Processing/ Dequeue
 
 
 
-
-
-
-
-
-
-
-
-### Queue Operations and Processing Receipt
-![Queue Processing Placeholder](screenshot_queue.png)
